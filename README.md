@@ -1,4 +1,4 @@
-## Meganote
+# Meganote
 Meganote is a clone of Evernote written in AngularJS.
 
 ### Prerequisities
@@ -26,7 +26,7 @@ You also need Gulp installed globally:
 $ sudo npm install gulp -g
 ```
 
-#### Installation
+### Installation
 Clone this repo
 ```sh
 $ git clone https://github.com/mketiku/meganote.git 
@@ -62,3 +62,5 @@ To deploy Meganote, copy the contents of the app folder to your remote server.
 ### Acknowledgments
 * Davey Strauss 
 * Seth Baugman 
+
+Based on the curriculum for [Xtern Bootcamp 2016](bootcamp16.getfretless.com/)
